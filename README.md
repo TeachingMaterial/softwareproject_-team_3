@@ -1,16 +1,14 @@
 # Phase 1 - Requirements Engineering
 
+## Task Allocation Table
 
-## task allocation table
-
-|name|Git username| Gre username|task|
-|---|---|---|--|
-|Chris|chrisreilly706|cr6314| Software Process Model|
-|warwick|janOliku|wm2109c|System requirements specification|
-|warwick|janOliku|wm2109c|User requirements definition|
+|Name| Git Username | Gre username| task |
+|---|---|---|---|
+|Warwick|janOliku|wm2109c|Introduction|
+|Warwick|janOliku|wm2109c|System requirements specification|
+|Warwick|janOliku|wm2109c|User requirements definition|
 |Chris|chrisreilly706|cr6314|Software Process Model|
 |Chris|chrisreilly706|cr6314|A Gantt chart of the project plan|
-|warwick| janOliku|wm2109c|introduction|
-|juan | jjunada19 | jg8115y|glossary|
-|juan | jjunada19 | jg8115y|possible risks and planning |
-|juan | jjunada19 | jg8115y| References and Acknowledgements |
+|Juan | jjuanda19 | jg8115y|Glossary|
+|Juan | jjuanda19 | jg8115y|Possible risks and risk planning|
+|Juan | jjuanda19 | jg8115y|References and Acknowledgements |
