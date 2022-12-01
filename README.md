@@ -6,7 +6,7 @@
 |Name| Git Username | Gre username| task |
 |---|---|---|---|
 |Chris|chrisreilly706|cr6314|Software Process Model|
-|Chris|chrisreilly706|cr6314|System requirements specification|
+|Warwick|jan|cr6314|System requirements specification|
 |Chris|chrisreilly706|cr6314|User requirements definition|
 |Chris|chrisreilly706|cr6314|Software Process Model|
 |Chris|chrisreilly706|cr6314|A Gantt chart of the project plan|
