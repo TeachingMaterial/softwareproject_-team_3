@@ -1,7 +1,5 @@
 # Phase 1 - Requirements Engineering
 
-
-
 ## Task Allocation Table
 
 |Name| Git Username | Gre username| task |
@@ -14,4 +12,3 @@
 |Juan | jjuanda19 | jg8115y|Glossary|
 |Juan | jjuanda19 | jg8115y|Possible risks and risk planning|
 |Juan | jjuanda19 | jg8115y|References and Acknowledgements |
-
