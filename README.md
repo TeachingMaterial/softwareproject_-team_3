@@ -67,10 +67,7 @@ Attached is URL which shows an example of a water-fall process model
 
 <div align=center>
 
-<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/>
-
-<div align=center>
- </div>
+<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/> </div>
  
 ## GLOSSARY
 ### Git:
