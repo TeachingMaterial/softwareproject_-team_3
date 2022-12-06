@@ -69,7 +69,9 @@ Attached is URL which shows an example of a water-fall process model
 
 <img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/>
 
-
+<div align=center>
+ </div>
+ 
 ## GLOSSARY
 ### Git:
  <p>Git, a version control system used to monitor changes in computer files, is a highly regarded tool among programmers all around the world. Any particular project may be handled with Git.<p>
