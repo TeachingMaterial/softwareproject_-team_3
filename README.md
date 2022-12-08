@@ -155,6 +155,15 @@ The User (currently Finance Administrator Seb Blair) requires the following feat
 |Lack of software access| Software| Moderate|Severe|Product| Team members may not have access to a good enough computer that allows them to work from home, or they are not able to work from home| Work from the computers in the Nelson building, if this is not possible they should contact their colleagues who have the necessary software for submitting|
 System does not respond as expected|Software|Almost Certain| Severe| Product|Team members are not experts, and most of the time that the system is being tested it is expected to fail. It is important for the project to not fail at an advanced stage as it is difficult to take a step back due to the water-fall model| Ensure that the project is double-checked before continuing to the next stage in development.|
 
+## *Gantt chart*
+a Gantt chart is a work production tool that is used to keep track on the work done my specific member of the team and as a whole. A gantt chartt is usefull for a few reason one of wehich is alloting certain periods of time to each task to ensure completion upon the deadline 
+
+our Gantt chart is representation of what task we had to complete as individuals of the groups and i what oder we completed them 
+
+<div align=center>
+ 
+<img src="mermaid-diagram-2022-12-08-025220.svg " alt="drawing" width="800"/></div>
+
 ### References
 
  Docker Hub. Available at: https://hub.docker.com/_/microsoft-dotnet-framework (Accessed: December 7, 2022). 
@@ -164,8 +173,8 @@ Brilliantly simple guide to the GDPR: BPE Solicitors) BPE Solicitors. Available 
 Gaba, I. (2022) What is github and how to use it? ,Simplilearn.com. Simplilearn. Available at: https://www.simplilearn.com/tutorials/git-tutorial/what-is-github#what_is_git (Accessed: December 5, 2022). 
 
 Getting started (no date) Markdown Guide. Available at: https://www.markdownguide.org/getting-started/#what-is-markdown (Accessed: December 5, 2022). 
-Kenton, W. (2022) What is Two-factor authentication (2FA)? how it works and example, Investopedia. Investopedia. Available at: https://www.investopedia.com/terms/t/twofactor-authentication-2fa.asp (Accessed: December 7, 2022). 
-
+Kenton, W. (2022) What is Two-factor authentication (2FA)? how it works and example, Investopedia. Investopedia. Available at: https://www.investopedia.com/terms/t/twofactor-authentication-2fa.asp (Accessed: December 7, 2022)
+ 
 Souly, A. (2021) Mermaid: Create diagrams quickly and effortlessly, Medium. Towards Data Science. Available at: https://towardsdatascience.com/mermaid-create-diagrams-quickly-and-effortlessly-d236e23d6d58#:~:text=Mermaid%20is%20a%20tool%20that,what%20you%20want%20to%20see! (Accessed: December 5, 2022). 
 Welcome to gov.uk  Welcome to GOV.UK. Available at: https://www.gov.uk/ (Accessed: December 7, 2022). 
 
