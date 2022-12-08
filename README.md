@@ -65,7 +65,7 @@ Attached is URL which shows an example of a water-fall process model.
 
 <div align=center>
 
-<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/> </div>
+<img src="Process-model.svg" alt="drawing" width="200"/> </div>
 
 
 
@@ -162,7 +162,7 @@ our Gantt chart is representation of what task we had to complete as individuals
 
 <div align=center>
  
-<img src="mermaid-diagram-2022-12-08-025220.jpg" alt="drawing" width="800"/></div>
+<img src="Gantt-chart.jpg" alt="drawing" width="800"/></div>
 
 ### References
 
