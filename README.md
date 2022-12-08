@@ -1,5 +1,9 @@
 # Phase 1 - Requirements Engineering
 
+## Introduction
+
+An online university requires the development of a payment system for their students and staff. They wish for compatibility with their existing systems and for a report generator within the system for easy access to aggregate data. They expect this to be delivered on the 23rd of March. This project's development will follow a plan-driven waterfall model, which will be explained in the next section.
+
 ## Task Allocation Table
 
 |Name| Git Username | Gre username| task |
@@ -8,10 +12,10 @@
 |Warwick|janOliku|wm2109c|System requirements specification|
 |Warwick|janOliku|wm2109c|User requirements definition|
 |Chris|chrisreilly706|cr6314|Software Process Model|
-|Chris|chrisreilly706|cr6314|A Gantt chart of the project plan|
-|juan | jjunada19 | jg8115y|glossary|
-|juan | jjunada19 | jg8115y|possible risks and planning |
-|juan | jjunada19 | jg8115y| References and Acknowledgements |
+|Chris|chrisreilly706|cr6314|A Gantt chart of the project  plan|
+|Juan | jjuanda19 | jg8115y|Glossary|
+|Juan | jjuanda19 | jg8115y|Possible risks and risk planning|
+|Juan | jjuanda19 | jg8115y|References and Acknowledgements |
 
 ## SOFTWARE PROCESS MODELS 
 
@@ -65,9 +69,99 @@ Attached is URL which shows an example of a water-fall process model
 
 <div align=center>
 
-<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/>
+<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/> </div>
 
-</div>
+
+
+
+## Glossary
+
+### Git:
+ <p>Git, a version control system used to monitor changes in computer files, is a highly regarded tool among programmers all around the world. Any particular project may be handled with Git.<p>
+This software allows users to organize and coordinate workflow in a project team and track the progress of each team member over time. It allows many users to work at the same time without interfering with each other’s works.</p>
+
+### GitHub: 
+It is a git repository hosting service which offers a web-based graphical interface. It is the biggest coding community. Programmers may discover source code in a variety of languages.<p>
+GitHub enables any team member to collaborate and work on a project from any place. You may also look at prior versions that were made at different points in time.
+It is used by project managers and developers to organise, track, and update their work in order for projects to be transparent and on time. Packages can also be distributed secretly, internally inside the team, or openly to the open-source community. Getting the packages from GitHub
+
+### Markdown: 
+<p>Markdown is a quick and simple markup language that you may use to add formatting components to plaintext text documents. In order to specify which words and phrases should have a distinct appearance in a document that has been prepared in Markdown, you must add Markdown syntax to the text.</p>
+<p>It’s possible to add Markdown formatting elements to a plaintext file using a text editor application. Websites, papers, notes, publications, presentations, emails, and technical documentation are all produced with it. 
+It is portable. The majority of programmes may be used to open files using Markdown text formatting.</p>
+<p>It is cross-platform, meaning that Markdown-formatted content may be created on any device running any operating system.
+
+### Mermaid:
+<p> Mermaid is a tool for creating complex diagrams in Markdown using simple instructions and an easy syntax. It’s not necessary to draw anything; only write it out.</p>
+<p>Flowcharts may be used to help you comprehend algorithms, Gantt charts for project management, pie charts, and a variety of other popular diagram forms.</p>
+<p>Mermaid intelligently arranges the diagram for us, so not needed to re-arrange all the boxes if it is forgotten a middle step in a flowchart.
+
+### Visual Studio Code: 
+It is one of the fast source code editors. It has support for hundreds of languages( as C++, java and phyton ) that is a really useful tool for help with highlighting, bracket-matching, auto-indentation, box-selection, snippets, and more.
+### Software: 
+A set of instructions, data, or programmes used to run computers and carry out specified activities. Is a generical term used to refers to Apps, scripts, and programmes that run on a device. It can be compared to the variable component of a computer.
+### Hardware:
+<p>It is the physical characteristics of a computer is the unchangeable component as the cpu,keyboard or mouse.</p>
+
+
+ ### GDPR : 
+ <p>General Data Protection Regulation, which went into effect on May 25, 2018, offers a legal framework for protecting everyone's personal data by requiring businesses to have rigorous protocols in place for managing and storing personal data. It is also intended to safeguard us from being approached by organisations without our express approval.</p>
+
+### P45:  
+<p>It is got when someone stops working for a company. P45 is a document that reveals how much tax it has been paid so far by someone in a tax year,  from the 6th of April to the 5th of April.</p>
+
+### P60:
+ <p>It is a document that shows how much tax people has paid tax it has been paid so far by someone in a tax year,  from the 6th of April to the 5th of April. People may get a separate P60 for each of their jobs every tax year.</p>
+
+### BACS:
+<p>  Bacs payment is a bank-to-bank transfer. Bacs payment methods are divided into two categories, which are characterised by:
+Direct Debit: When you give another party permission to take money from your bank account. Direct Debits include payments such as your monthly council tax, internet bill, and power bill, among other things.
+Direct Credit: This is when someone else sends money into your account, often known as a "bank transfer." Direct Credits include refunds, salary payments, and pension payments.</p>
+
+### Two-Factor Authentication:
+<p> 2FA is a security mechanism that necessitates the use of two unique forms of identification in order to get access to anything.
+Two-factor authentication can help to secure an internet account, a smartphone, or even a door. 2FA does this by asking the user to provide two forms of information—a password or personal identification number (PIN), a code texted to the user's smartphone, or a fingerprint—before accessing whatever is being secured.</p>
+
+### C# dotNET framework:
+ <p>Microsoft's.NET Framework is a general-purpose development platform. It is the most widely used method for developing client and server applications for Windows and Windows Server. It comes as part of Windows, Windows Server, and Windows Server Core. Server technologies including ASP.NET Web Forms, ASP.NET MVC, and Windows Communication Foundation (WCF) apps are included. Automatic memory management, (runtime) generic types, reflection, asynchrony, concurrency, and native interop are all features of NET that make programming easier. Millions of developers use these features to quickly create high-quality web and client apps.
+C# is a simple, powerful, type-safe, object-oriented programming language that retains the expressiveness and beauty of C-style languages.</p>
+
+
+
+
+## User Requirements Definition
+
+The User (currently Finance Administrator Seb Blair) requires the following features to be developed within this payment system:
+
+1. Students must be able to submit tuition payments and recieve invoices.
+2. Staff (lecturer) payroll and payslips must be generated and managed.
+3. Reports must be able to be generated to access overall data including income, expenses and student records.
+4. This system must be compatible with the other systems used by the University, including abiding by security regulations.
+
+## System Requirements Specification
+
+1. 1. Students must be able to make tuition payments directly through the system, ensuring that various payment methods are available, including Visa and MasterCard.
+    2. Invoices for these payments will be generated and stored on the system database, and will be accessible to the students and the Finance Administrator through the system.
+    3. Students must also be able to submit notification of Student Loan payments in order to fund their studies.
+2. 1. The system will show current and rolling hour counts for staff in order for the Finance Administrator to verify and confirm pay calculations
+    2. The system, upon the Finance Administrator's verification, will calculate pay and generate payslips for all staff who are owed wages in the current payment period. 
+    3. Payslips will be able to be generated from any past data range, in case an error causes payslips to be incorrect, or in case a final calculation is needed for P45 or P60 HMRC tax purposes.
+    4. The system will pay the staff using BACS based on the aforementioned payslip data.
+3. 1. Reports of income (primarily tuition), expenses (wages and teaching materials) and total profit will be generated upon the Finance Administrator's request in order to view overall financial data.
+    2. Reports of student records (grades, attendance, academic status, etc) will be generated upon the Finance Administrator's request in order to view overall academic data.
+4. 1. The system will use existing student login data from the main database, and should sync data between this database and itself to integrate itself into the existing systems.
+    2. The system will utilise Two Factor Authentication upon all login attempts as well as minimum password security requirements to adhere to GDPR regulations.
+    3. The system will use an alphanumeric identifier for all students in the format of their initials followed by a random 4 digit number (aa000).
+    4. The system will be programmed in C# using the dotNET framework for compatibility between this system and the other university systems.
+
+## Possibles risks and risk plannig
+| Risk | Risk Type | Probability |Effects| Affects|Descripttion | Strategy| 
+|---|---|---|---|---|---|---|
+| Someone from the team may not achieve the submission day| People | Moderate |Serius| Project and Product| As has been chosen a system which depends on the progress of each stage, it is possible to provoke several delays on the delivery day of the project and product| Check every week the progress of the project and if somebody does not accomplish the 2 first dates established and  reorganize the project this could mean more work for the team members| 
+|Any team member could get sick at some important moment| People| Moderate |Serius|Project and Product| If people get sick at important moment it will delay the final product delivery date which could cost several marks on this project|As soon as notified  the off sick is necessary to reorganize the project and the rest of the team need to finish it assuming consequences|
+|Lack of preparation| People | Likely | Critical | Product| Due to all team members are in undergraduate education it is very likely that the team get struggled at the time to do the software part or coding|Prepare ourselves on the best way getting acquainted with the coding software through the labs and coursework and also follow all the professor’s instructions to avoid several mistakes|
+|Not software access| Software| Moderate|Several|Product| Team members may not have access to a good enough pc or laptop that allows them to work from home or they are not able to work from home| Work from the computers from nelson building and if is not possible ask to the colleges whose haves the necessary software help for submitting|
+System does not aswer as expected|Software|Almost Certain| Several| Product|Team members are no experts most of the time that the system is being tested, it is expected to fail. It is important for the project to not fail at a really advanced point of the project because it is difficult to take a step back| It is necessary to check every stage of the project before continuing   
 
 ## *Gantt chart*
 a Gantt chart is a work production tool that is used to keep track on the work done my specific member of the team and as a whole. A gantt chartt is usefull for a few reason one of wehich is alloting certain periods of time to each task to ensure completion upon the deadline 
@@ -75,4 +169,19 @@ a Gantt chart is a work production tool that is used to keep track on the work d
 our Gantt chart is representation of what task we had to complete as individuals of the groups and i what oder we completed them 
 
 <img src="mermaid-diagram-2022-12-08-025220.svg " alt="drawing" width="800" lenght="800"/>
-  
+
+### References
+
+ Docker Hub. Available at: https://hub.docker.com/_/microsoft-dotnet-framework (Accessed: December 7, 2022). 
+
+Brilliantly simple guide to the GDPR: BPE Solicitors) BPE Solicitors. Available at: https://www.bpe.co.uk/for-business/regulatory/data-protection/brilliantly-simple-guide-to-the-gdpr/ (Accessed: December 6, 2022). 
+
+Gaba, I. (2022) What is github and how to use it? ,Simplilearn.com. Simplilearn. Available at: https://www.simplilearn.com/tutorials/git-tutorial/what-is-github#what_is_git (Accessed: December 5, 2022). 
+
+Getting started (no date) Markdown Guide. Available at: https://www.markdownguide.org/getting-started/#what-is-markdown (Accessed: December 5, 2022). 
+Kenton, W. (2022) What is Two-factor authentication (2FA)? how it works and example, Investopedia. Investopedia. Available at: https://www.investopedia.com/terms/t/twofactor-authentication-2fa.asp (Accessed: December 7, 2022)
+ 
+Souly, A. (2021) Mermaid: Create diagrams quickly and effortlessly, Medium. Towards Data Science. Available at: https://towardsdatascience.com/mermaid-create-diagrams-quickly-and-effortlessly-d236e23d6d58#:~:text=Mermaid%20is%20a%20tool%20that,what%20you%20want%20to%20see! (Accessed: December 5, 2022). 
+Welcome to gov.uk  Welcome to GOV.UK. Available at: https://www.gov.uk/ (Accessed: December 7, 2022). 
+
+What is bacs? guide to bacs payments (no date) Starling Bank. Available at: https://www.starlingbank.com/resources/banking/what-is-bacs-guide-to-bacs-payments/ (Accessed: December 7, 2022). 
