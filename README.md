@@ -180,4 +180,4 @@ Welcome to gov.uk  Welcome to GOV.UK. Available at: https://www.gov.uk/ (Accesse
 
 What is bacs? guide to bacs payments (no date) Starling Bank. Available at: https://www.starlingbank.com/resources/banking/what-is-bacs-guide-to-bacs-payments/ (Accessed: December 7, 2022). 
 
-***Thanks to our moudle leader Sebastian Blair for his lessons and his suport that were really helpul for us to make this report***.
+***Thanks to our module leader Sebastian Blair for his lessons and support, which were really helpul for us to make this report***.
