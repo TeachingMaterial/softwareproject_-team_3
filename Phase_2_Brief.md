@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # Phase 2 - System Modelling and Design Phase Brief
 
 **Submission Deadline: 19th January 2022**
 
 **Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2113906) the **hash** of commit you wish to be used for phase 2, ensure that this is the hash on the `phase/2` branch.
->>>>>>> 6660043 (mod: Phase 2 brief finished?)
 
 ------
 
@@ -28,7 +26,9 @@
 
 - [PlantUML Architecutre Diagrams](https://plantuml.com/archimate-diagram)
 
-## Structure of the Requirements Phase Report
+-----
+
+## Structure of the System Modelling and Design Phase Report
 
 You will need to produce a **markdown** documentation in the form of a report that details the requirements phase of the project.
 
