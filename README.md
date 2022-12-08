@@ -74,7 +74,6 @@ Attached is URL which shows an example of a water-fall process model
 
 
 
-=======
 ## Glossary
 
 ### Git:
@@ -127,7 +126,7 @@ Two-factor authentication can help to secure an internet account, a smartphone, 
  <p>Microsoft's.NET Framework is a general-purpose development platform. It is the most widely used method for developing client and server applications for Windows and Windows Server. It comes as part of Windows, Windows Server, and Windows Server Core. Server technologies including ASP.NET Web Forms, ASP.NET MVC, and Windows Communication Foundation (WCF) apps are included. Automatic memory management, (runtime) generic types, reflection, asynchrony, concurrency, and native interop are all features of NET that make programming easier. Millions of developers use these features to quickly create high-quality web and client apps.
 C# is a simple, powerful, type-safe, object-oriented programming language that retains the expressiveness and beauty of C-style languages.</p>
 
-=======
+
 
 
 ## User Requirements Definition
@@ -154,7 +153,7 @@ The User (currently Finance Administrator Seb Blair) requires the following feat
     2. The system will utilise Two Factor Authentication upon all login attempts as well as minimum password security requirements to adhere to GDPR regulations.
     3. The system will use an alphanumeric identifier for all students in the format of their initials followed by a random 4 digit number (aa000).
     4. The system will be programmed in C# using the dotNET framework for compatibility between this system and the other university systems.
-=======
+
 ## Possibles risks and risk plannig
 | Risk | Risk Type | Probability |Effects| Affects|Descripttion | Strategy| 
 |---|---|---|---|---|---|---|
@@ -163,7 +162,7 @@ The User (currently Finance Administrator Seb Blair) requires the following feat
 |Lack of preparation| People | Likely | Critical | Product| Due to all team members are in undergraduate education it is very likely that the team get struggled at the time to do the software part or coding|Prepare ourselves on the best way getting acquainted with the coding software through the labs and coursework and also follow all the professor’s instructions to avoid several mistakes|
 |Not software access| Software| Moderate|Several|Product| Team members may not have access to a good enough pc or laptop that allows them to work from home or they are not able to work from home| Work from the computers from nelson building and if is not possible ask to the colleges whose haves the necessary software help for submitting|
 System does not aswer as expected|Software|Almost Certain| Several| Product|Team members are no experts most of the time that the system is being tested, it is expected to fail. It is important for the project to not fail at a really advanced point of the project because it is difficult to take a step back| It is necessary to check every stage of the project before continuing   
-=======
+
 ### References
 
  Docker Hub. Available at: https://hub.docker.com/_/microsoft-dotnet-framework (Accessed: December 7, 2022). 
