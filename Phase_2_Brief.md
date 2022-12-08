@@ -1,14 +1,10 @@
+<<<<<<< HEAD
 # Phase 2 - System Modelling and Design Phase Brief
 
-**Submission Deadline: 19th January 2023**
+**Submission Deadline: 19th January 2022**
 
-**Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2113906) the **hash** of commit you wish to be used for phase 1, ensure that this is the hash on the `phase/2` branch.
-
-
-## Brief
-
-The main aim of this assignment is for the students to get a clear understanding of what kind of activities are involved in the various phases of software project development.
-
+**Submission Guidance**: You will submit to [turnitin](https://moodlecurrent.gre.ac.uk/mod/assign/view.php?id=2113906) the **hash** of commit you wish to be used for phase 2, ensure that this is the hash on the `phase/2` branch.
+>>>>>>> 6660043 (mod: Phase 2 brief finished?)
 
 ------
 
@@ -20,46 +16,56 @@ The main aim of this assignment is for the students to get a clear understanding
 
 - [Mermaid Gantt Chart Documentation](https://mermaid-js.github.io/mermaid/#/gantt)
 
-- [Mermaid Gantt Chart Template](https://mermaid.live/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOntKloOWwrqlILRXlPISQ_55TpRDaQ6DT--Chd8UleUaLR4oiLoKOBPlm2MNbgWAKdMy0VsqT8GvKKwnAh04_z_00Ve7Mi4QU4VDvCu5B6HyC51gyHYyD2fWD0dPBy-CbNCb54vw0WPoUfZMBKBb_N6bJK_hePCEWssU8IsxY3GZsbvofAhbGnccOV9ZvBa9VXIvUoepWdmh19ZRPDl28qY42SYdLXNBK3rjD7aeU0lp6gOyDpDzXan8bvt0BQFBqnQ)
-- [PlantUML Sequences Diagrams](https://plantuml.com/sequence-diagram)
+- [PlantUML Documentation](https://plantuml.com/use-case-diagram)
 
-- [PlantUML Use-Cases Diagrams](https://plantuml.com/use-case-diagram)
+- [PlantUML Use Case Diagrams](https://www.plantuml.com/plantuml/uml/VP7DIWCn483lUOgn9tEe3x285Egoz51P4kXzs1rhC3zBPaBrxJLRT6iBNaBulYyJGZOicAK4h-xaZG91mCoAtrsSC6C072HbAv-U04_4AP0gJ0ComShGqR5GXWd5KPGL88Ffb-3Ww0GzPKuHFUpYQtgOcqE_kueC3IcFPsaMruvEBbrxuIn9cM2R8XSlA2x5ER7RY-CVKye2jceMD_1vY5sAZY9b5093DPrzPnIePa-Z6z3NsscgqnrB0-lr4zoRNl_hlv-drRp2OmND7YCUAJVgTtSEMwklKMUqKirBoKm_qup-2zevUKxrPvRcYhGtfBiXTglLXk9OWly2)
 
 - [PlantUML Class Diagrams](https://plantuml.com/class-diagram)
 
-- [PlantUML Activity Diagrams](hhttps://plantuml.com/activity-diagram-beta)
+- [PlantUML Activity Diagrams](https://plantuml.com/activity-diagram-beta)
 
 - [PlantUML State Diagrams](https://plantuml.com/state-diagram)
 
-------
+- [PlantUML Architecutre Diagrams](https://plantuml.com/archimate-diagram)
 
 ## Structure of the Requirements Phase Report
 
 You will need to produce a **markdown** documentation in the form of a report that details the requirements phase of the project.
 
-- ensure that once the project is cloned to your local machine that you checkout to `'phase/2'` and branch off of this to your own branch using the following standard.. `'phase/2-gitusername'`. As part of your workflow, you will merge back into `'phase/2'` **ONLY**. 
+- ensure that once the project is cloned to your local machine that you checkout to `'phase/2'` and branch off of this to your own branch using the following standard: `'phase/2-gitusername'`. As part of your workflow, you will merge back into `'phase/2'` **ONLY**. 
 
 - **Do not** merge to `main`.
 
-Working as a team you will assign each other tasks to complete phase 2, refer to the required sections for the `README.md` file below.
+Working as a team you will assign each other tasks to complete phase 1, refer to the required sections for the `README.md` file below.
 
 The requirements phase `README.md` should include the following information:
 
-- **Introduction** – specifying what diagrams are included in the report and what is their purpose. 
-- **Table** - indicating the allocation of tasks to team members
-- **Modelling** -  You will produce the following diagrams and place them in the report under suitable sub headings:
-  - The overall architecture of the system;
-  - Use Case diagrams including the tabular representation of the use cases;
-  - Sequence diagrams;
-  - Class diagrams;
-  - Activity diagrams;
-  - State chart diagrams.
+Structure of the System Modelling and Design Phase Report
 
-- **References and Acknowledgements** – should contain the references you have used following the Harvard referencing system (http://www.citethisforme.com/harvard-referencing) and some acknowledgments thanking people / organisations who might have helped you preparing the report.
+The system modelling and design phase report should include the following sections:
 
-- **A Gantt chart of the project plan** – using [Mermaid Gantt Chart Template](https://mermaid.live/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOntKloOWwrqlILRXlPISQ_55TpRDaQ6DT--Chd8UleUaLR4oiLoKOBPlm2MNbgWAKdMy0VsqT8GvKKwnAh04_z_00Ve7Mi4QU4VDvCu5B6HyC51gyHYyD2fWD0dPBy-CbNCb54vw0WPoUfZMBKBb_N6bJK_hePCEWssU8IsxY3GZsbvofAhbGnccOV9ZvBa9VXIvUoepWdmh19ZRPDl28qY42SYdLXNBK3rjD7aeU0lp6gOyDpDzXan8bvt0BQFBqnQ) at the end of the README.md file under a section called Appendix to be included in the Appendix.
+- **Introduction** - specifying what diagrams are included in the report and what is their purpose. 
+
+- **Table** - indicating the allocation of tasks to team members.
+
+- The following diagrams (included in the Appendix and not the main body of the report)
+
+- Overall System Archictecture ;
+ 
+   - **Use Case diagrams** - including the tabular representation of the use cases;
+ 
+   - **Sequence diagrams**;
+ 
+   - **Class diagrams**;
+ 
+   - **Activity diagrams**;
+ 
+   - **State chart diagrams**.
+
+   - **An updated Gantt chart of the project plan** – using [Mermaid Gantt Chart Template](https://mermaid.live/edit#pako:eNpdUD1rwzAQ_SvHzTZYbiZtAdNOntKloOWwrqlILRXlPISQ_55TpRDaQ6DT--Chd8UleUaLR4oiLoKOBPlm2MNbgWAKdMy0VsqT8GvKKwnAh04_z_00Ve7Mi4QU4VDvCu5B6HyC51gyHYyD2fWD0dPBy-CbNCb54vw0WPoUfZMBKBb_N6bJK_hePCEWssU8IsxY3GZsbvofAhbGnccOV9ZvBa9VXIvUoepWdmh19ZRPDl28qY42SYdLXNBK3rjD7aeU0lp6gOyDpDzXan8bvt0BQFBqnQ) at the end of the README.md file under a section called Appendix to be included in the Appendix. 
 
 -------------
+
 ## Marking Scheme
 
 This phase of the assignment contributes 30% of the total coursework mark. 
