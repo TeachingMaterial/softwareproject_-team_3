@@ -70,3 +70,6 @@ Attached is URL which shows an example of a water-fall process model
 <img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/>
 
 </div>
+
+## Gantt chart 
+<img src="Gantt-chart.svg " alt="drawing" width="800" lenght="800"/>
