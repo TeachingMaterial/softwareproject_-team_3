@@ -67,7 +67,7 @@ Attached is URL which shows an example of a water-fall process model
 
 <div align=center>
 
-<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/>
+<img src="mermaid-diagram-2022-12-06-103047.svg" alt="drawing" width="200"/> </div>
 
 
 
@@ -98,5 +98,52 @@ It is one of the fast source code editors. It has support for hundreds of langua
 ### Software: 
 A set of instructions, data, or programmes used to run computers and carry out specified activities. Is a generical term used to refers to Apps, scripts, and programmes that run on a device. It can be compared to the variable component of a computer.
 ### Hardware:
-It is the physical characteristics of a computer is the unchangeable component as the cpu,keyboard or mouse.
+<p>It is the physical characteristics of a computer is the unchangeable component as the cpu,keyboard or mouse.</p>
 
+ ### GDPR : 
+ <p>General Data Protection Regulation, which went into effect on May 25, 2018, offers a legal framework for protecting everyone's personal data by requiring businesses to have rigorous protocols in place for managing and storing personal data. It is also intended to safeguard us from being approached by organisations without our express approval.</p>
+
+### P45:  
+<p>It is got when someone stops working for a company. P45 is a document that reveals how much tax it has been paid so far by someone in a tax year,  from the 6th of April to the 5th of April.</p>
+
+### P60:
+ <p>It is a document that shows how much tax people has paid tax it has been paid so far by someone in a tax year,  from the 6th of April to the 5th of April. People may get a separate P60 for each of their jobs every tax year.</p>
+
+### BACS:
+<p>  Bacs payment is a bank-to-bank transfer. Bacs payment methods are divided into two categories, which are characterised by:
+Direct Debit: When you give another party permission to take money from your bank account. Direct Debits include payments such as your monthly council tax, internet bill, and power bill, among other things.
+Direct Credit: This is when someone else sends money into your account, often known as a "bank transfer." Direct Credits include refunds, salary payments, and pension payments.</p>
+
+### Two-Factor Authentication:
+<p> 2FA is a security mechanism that necessitates the use of two unique forms of identification in order to get access to anything.
+Two-factor authentication can help to secure an internet account, a smartphone, or even a door. 2FA does this by asking the user to provide two forms of information—a password or personal identification number (PIN), a code texted to the user's smartphone, or a fingerprint—before accessing whatever is being secured.</p>
+
+### C# dotNET framework:
+ <p>Microsoft's.NET Framework is a general-purpose development platform. It is the most widely used method for developing client and server applications for Windows and Windows Server. It comes as part of Windows, Windows Server, and Windows Server Core. Server technologies including ASP.NET Web Forms, ASP.NET MVC, and Windows Communication Foundation (WCF) apps are included. Automatic memory management, (runtime) generic types, reflection, asynchrony, concurrency, and native interop are all features of NET that make programming easier. Millions of developers use these features to quickly create high-quality web and client apps.
+C# is a simple, powerful, type-safe, object-oriented programming language that retains the expressiveness and beauty of C-style languages.</p>
+
+
+
+## Possibles risks and risk plannig
+| Risk | Risk Type | Probability |Effects| Affects|Descripttion | Strategy| 
+|---|---|---|---|---|---|---|
+| Someone from the team may not achieve the submission day| People | Moderate |Serius| Project and Product| As has been chosen a system which depends on the progress of each stage, it is possible to provoke several delays on the delivery day of the project and product| Check every week the progress of the project and if somebody does not accomplish the 2 first dates established and  reorganize the project this could mean more work for the team members| 
+|Any team member could get sick at some important moment| People| Moderate |Serius|Project and Product| If people get sick at important moment it will delay the final product delivery date which could cost several marks on this project|As soon as notified  the off sick is necessary to reorganize the project and the rest of the team need to finish it assuming consequences|
+|Lack of preparation| People | Likely | Critical | Product| Due to all team members are in undergraduate education it is very likely that the team get struggled at the time to do the software part or coding|Prepare ourselves on the best way getting acquainted with the coding software through the labs and coursework and also follow all the professor’s instructions to avoid several mistakes|
+|Not software access| Software| Moderate|Several|Product| Team members may not have access to a good enough pc or laptop that allows them to work from home or they are not able to work from home| Work from the computers from nelson building and if is not possible ask to the colleges whose haves the necessary software help for submitting|
+System does not aswer as expected|Software|Almost Certain| Several| Product|Team members are no experts most of the time that the system is being tested, it is expected to fail. It is important for the project to not fail at a really advanced point of the project because it is difficult to take a step back| It is necessary to check every stage of the project before continuing   
+
+### References
+ Docker Hub. Available at: https://hub.docker.com/_/microsoft-dotnet-framework (Accessed: December 7, 2022). 
+
+Brilliantly simple guide to the GDPR: BPE Solicitors) BPE Solicitors. Available at: https://www.bpe.co.uk/for-business/regulatory/data-protection/brilliantly-simple-guide-to-the-gdpr/ (Accessed: December 6, 2022). 
+
+Gaba, I. (2022) What is github and how to use it? ,Simplilearn.com. Simplilearn. Available at: https://www.simplilearn.com/tutorials/git-tutorial/what-is-github#what_is_git (Accessed: December 5, 2022). 
+
+Getting started (no date) Markdown Guide. Available at: https://www.markdownguide.org/getting-started/#what-is-markdown (Accessed: December 5, 2022). 
+Kenton, W. (2022) What is Two-factor authentication (2FA)? how it works and example, Investopedia. Investopedia. Available at: https://www.investopedia.com/terms/t/twofactor-authentication-2fa.asp (Accessed: December 7, 2022). 
+
+Souly, A. (2021) Mermaid: Create diagrams quickly and effortlessly, Medium. Towards Data Science. Available at: https://towardsdatascience.com/mermaid-create-diagrams-quickly-and-effortlessly-d236e23d6d58#:~:text=Mermaid%20is%20a%20tool%20that,what%20you%20want%20to%20see! (Accessed: December 5, 2022). 
+Welcome to gov.uk  Welcome to GOV.UK. Available at: https://www.gov.uk/ (Accessed: December 7, 2022). 
+
+What is bacs? guide to bacs payments (no date) Starling Bank. Available at: https://www.starlingbank.com/resources/banking/what-is-bacs-guide-to-bacs-payments/ (Accessed: December 7, 2022). 
