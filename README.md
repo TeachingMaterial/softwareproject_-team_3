@@ -156,13 +156,13 @@ The User (currently Finance Administrator Seb Blair) requires the following feat
 System does not respond as expected|Software|Almost Certain| Severe| Product|Team members are not experts, and most of the time that the system is being tested it is expected to fail. It is important for the project to not fail at an advanced stage as it is difficult to take a step back due to the water-fall model| Ensure that the project is double-checked before continuing to the next stage in development.|
 
 ## *Gantt chart*
-a Gantt chart is a work production tool that is used to keep track on the work done my specific member of the team and as a whole. A gantt chartt is usefull for a few reason one of wehich is alloting certain periods of time to each task to ensure completion upon the deadline 
+A Gantt chart is a work production tool that is used to keep track of the work done both by specific members of the team and as a whole. A Gantt chartt is useful for a few reasons, one of which is allotting certain periods of time to each task to ensure completion upon the deadline.
 
-our Gantt chart is representation of what task we had to complete as individuals of the groups and i what oder we completed them 
+Our Gantt chart is a representation of what tasks we had to complete as individuals of the group and in what order we completed them.
 
 <div align=center>
  
-<img src="https://github.com/TeachingMaterial/softwareproject_-team_3/blob/phase/1/Gantt-chart.svg" alt="drawing" width="800"/> </div>
+<img src="https://github.com/TeachingMaterial/softwareproject_-team_3/blob/phase/1/Gantt-chart.jpg" alt="drawing" width="800"/> </div>
 
 
 ### References
