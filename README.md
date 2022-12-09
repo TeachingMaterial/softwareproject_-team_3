@@ -162,7 +162,7 @@ our Gantt chart is representation of what task we had to complete as individuals
 
 <div align=center
  
-<img src="Process-model.svg" alt="drawing" width="200"/> </div>
+<img src="https://github.com/TeachingMaterial/softwareproject_-team_3/blob/phase/1/mermaid-diagram-2022-12-09-031652.svg" alt="drawing" width="200"/> </div>
 
 
 ### References
