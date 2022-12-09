@@ -162,8 +162,7 @@ our Gantt chart is representation of what task we had to complete as individuals
 
 <div align=center>
  
-<img src="[mermaid-diagram-2022-12-09-031652](https://user-images.githubusercontent.com/115148130/206618833-43436770-7756-47a0-858a-f4d14dd89e6d.svg)
-" alt="drawing" width="800"/></div>
+<img src="mermaid-diagram-2022-12-09-031652" alt="drawing" width="800"/></div>
 
 ### References
 
