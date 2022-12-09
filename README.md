@@ -160,9 +160,10 @@ a Gantt chart is a work production tool that is used to keep track on the work d
 
 our Gantt chart is representation of what task we had to complete as individuals of the groups and i what oder we completed them 
 
-<div align=center>
+<div align=center
  
-<img src="Gantt-chart.jpg" alt="drawing" width="800"/></div>
+<img src="https://github.com/TeachingMaterial/softwareproject_-team_3/blob/phase/1/mermaid-diagram-2022-12-09-031652.svg" alt="drawing" width="800"/> </div>
+
 
 ### References
 
