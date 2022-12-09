@@ -162,7 +162,8 @@ our Gantt chart is representation of what task we had to complete as individuals
 
 <div align=center
  
-<img src="gantt chart v.2" alt="drawing" width="200"/> </div>
+<img src="Process-model.svg" alt="drawing" width="200"/> </div>
+
 
 ### References
 
