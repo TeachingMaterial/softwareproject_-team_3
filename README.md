@@ -15,10 +15,13 @@
   *Class diagrams act as the blueprints for your system.They are communly used by business's to show correlations between groups of objects or activitys*
 
  *Below is the class diagram for our system*
-![graph 1 class](https://user-images.githubusercontent.com/115148130/213920107-deb60659-2778-4d18-8f1e-24a5e7cefdb0.png)
  
+![graph 1 class](https://user-images.githubusercontent.com/115148130/213920107-deb60659-2778-4d18-8f1e-24a5e7cefdb0.png)
+
+
   ## Activity Diagram
   *An activity diagram is similar to a state diagram in which it shows the flow of a system in less technical term. In an activty diagram you can see where and how errors can be corrected and how each part will work in to the overall system *
+
 
  *The activity diagrams for our system can be shown below*       
 ![graph 2 activity diagram(Admin)](https://user-images.githubusercontent.com/115148130/213920165-9003744e-277c-47f4-8f66-48782c53d737.png)
