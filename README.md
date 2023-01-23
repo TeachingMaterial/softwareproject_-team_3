@@ -1,3 +1,14 @@
+## Introduction
+
+This report details the model of the system that will be developed. It includes various critical diagrams which illustrate the scope and logistics of the implementation of the system.
+These are:
+- Overall Architecture,
+- Use Case Diagrams, for documenting the various usage requirements from different groups of users,
+- Sequence Diagrams, which show in-depth explanation of the processes within the system,
+- Class Diagrams, showing the relationships between different entities within the system,
+- Activity Diagrams, highlighting the overall flow of the system,
+- State Diagrams, designating the different states and state transitions of the system.
+
 ## Task Allocation Table
 
 |Name| Git Username | Gre username| Task |
@@ -52,3 +63,8 @@
 ![graph 2 activity diagram(student)](https://user-images.githubusercontent.com/115148130/213920168-311e156d-a0a7-4227-b1a3-05905659d9d3.png)
 ![graph 2 activity diagram](https://user-images.githubusercontent.com/115148130/213920170-8370fc5b-36b5-494a-b315-26b09a43755f.png)
 
+
+## State Diagram
+  A State Diagram is a diagram used to show the various states of a system, and the relation and criteria to transition between these states.
+
+![graph state diagram](https://github.com/TeachingMaterial/softwareproject_-team_3/blob/phase/2/graph%20state%20diagram.png)
