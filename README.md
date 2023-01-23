@@ -9,3 +9,12 @@
 |Chris|chrisreilly706|cr6314|Activity diagram|
 |Juan | jjuanda19 | jg8115y|Use Case diagrams|
 |Juan | jjuanda19 | jg8115y|Sequence digrams|
+
+## Class Diagrams
+  *Class diagrams act as the blueprints for your system.They are communly used by business's to show correlations between groups of objects or activitys*
+
+
+  ## Activity Diagram
+  *An activity diagram is similar to a state diagram in which it shows the flow of a system in less technical term. In an activty diagram you can see where and how errors can be corrected and how each part will work in to the overall system *
+
+      
