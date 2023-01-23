@@ -73,4 +73,5 @@ These are:
 
 ## Gantt Chart
 
-<img src="https://user-images.githubusercontent.com/114992140/214053162-79cb0a52-29eb-4a40-93f8-323f0be35231.jpg">
+<img src="https://user-images.githubusercontent.com/114992140/214055706-c0bf452c-2a75-4fa1-955a-362bb0db7ac2.jpg">
+
