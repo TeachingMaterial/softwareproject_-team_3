@@ -14,7 +14,7 @@ These are:
 |Name| Git Username | Gre username| Task |
 |---|---|---|---|
 |Warwick|janOliku|wm2109c|Introduction|
-|Warwick|janOliku|wm2109c|Gantt Chart|
+|Juan|jjuanda19|jg8115y|Gantt Chart|
 |Warwick|janOliku|wm2109c|State diagrams|
 |Chris|chrisreilly706|cr6314|Class diagrams|
 |Chris|chrisreilly706|cr6314|Activity diagram|
@@ -64,7 +64,17 @@ These are:
 ![graph 2 activity diagram](https://user-images.githubusercontent.com/115148130/213920170-8370fc5b-36b5-494a-b315-26b09a43755f.png)
 
 
+## Gantt Chart
+
+![Gantt chart](https://user-images.githubusercontent.com/114992140/214053162-79cb0a52-29eb-4a40-93f8-323f0be35231.jpg)
+
+
+
 ## State Diagram
   A State Diagram is a diagram used to show the various states of a system, and the relation and criteria to transition between these states.
 
 ![graph state diagram](https://github.com/TeachingMaterial/softwareproject_-team_3/blob/phase/2/graph%20state%20diagram.png)
+
+## Gantt Chart
+
+<img src="https://user-images.githubusercontent.com/114992140/214053162-79cb0a52-29eb-4a40-93f8-323f0be35231.jpg">
