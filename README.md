@@ -52,3 +52,7 @@
 ![graph 2 activity diagram(student)](https://user-images.githubusercontent.com/115148130/213920168-311e156d-a0a7-4227-b1a3-05905659d9d3.png)
 ![graph 2 activity diagram](https://user-images.githubusercontent.com/115148130/213920170-8370fc5b-36b5-494a-b315-26b09a43755f.png)
 
+## Gantt Chart
+
+![Gantt chart](https://user-images.githubusercontent.com/114992140/214053162-79cb0a52-29eb-4a40-93f8-323f0be35231.jpg)
+
