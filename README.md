@@ -11,9 +11,10 @@
 |Juan | jjuanda19 | jg8115y|Sequence digrams|
 
 
-## Apepndix
+# Apepndix
 ## Use case diagram
-![use case](https://user-images.githubusercontent.com/114992140/213960846-f6c1c81c-ee7e-4464-ac2e-02fc31440de8.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/114992140/213960846-f6c1c81c-ee7e-4464-ac2e-02fc31440de8.png"></div>
 
 ## Tabular representation of the use cases for Payroll System
 
@@ -26,6 +27,10 @@
 |Comments|To accest to the system it is needed to verifiy  identification via a Two Factor Authentication, Finance administrator have to cheeck the staff hours to very paymets.|
 
 ## Sequence diagrams
-![sequence 2](https://user-images.githubusercontent.com/114992140/213960984-1a33c72c-b721-4ba0-bf81-3dd198be2b2b.png)
-![sequence](https://user-images.githubusercontent.com/114992140/213960951-fecf8b94-d30e-47ab-822c-b8af7066bc4d.png)
-![sequence 3](https://user-images.githubusercontent.com/114992140/213961037-5c076f6a-25b9-4e7d-b6e7-16e29f632707.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/114992140/213960984-1a33c72c-b721-4ba0-bf81-3dd198be2b2b.png"></div>
+<div align=center>
+<img src="https://user-images.githubusercontent.com/114992140/213960951-fecf8b94-d30e-47ab-822c-b8af7066bc4d.png" alt="drawing" width="500"/>></div>
+ <div align=center>
+<img src="https://user-images.githubusercontent.com/114992140/213961037-5c076f6a-25b9-4e7d-b6e7-16e29f632707.png"alt="drawing" width="500"/></div>
+
