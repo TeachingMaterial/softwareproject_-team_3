@@ -34,7 +34,22 @@ namespace OnlineUniversity
 
         private void logginbutton_Click(object sender, EventArgs e)
         {
+            string user, password;
+            user = textBox_User.Text;
+            password=textBox_password.Text;
+
+            if (user == "jjuanda19" && password == "project")
+            {
+                MessageBox.Show("Login Succesfully");
+            }
+            else
+                MessageBox.Show("Error Username or Password");
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
+
     }
 }
