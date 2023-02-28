@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace OnlineUniversity
 {
     public partial class Form1 : Form
@@ -36,7 +37,7 @@ namespace OnlineUniversity
         {
             string user, password;
             user = textBox_User.Text;
-            password=textBox_password.Text;
+            password = textBox_password.Text;
 
             if (user == "jjuanda19" && password == "project")
             {
