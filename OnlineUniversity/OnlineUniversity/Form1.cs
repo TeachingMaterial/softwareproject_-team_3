@@ -42,7 +42,7 @@ namespace OnlineUniversity
 
             string user = textBox_User.Text;
             string password = textBox_password.Text;
-            string[] credentials = null;
+            
             //Find the index of the user in the array
             int index = Array.IndexOf(students, user);
             int staffindex = Array.IndexOf(staff, user);
