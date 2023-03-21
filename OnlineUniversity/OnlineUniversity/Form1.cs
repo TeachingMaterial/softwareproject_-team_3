@@ -71,7 +71,7 @@ namespace OnlineUniversity
                 if (password.Equals(staffpasswords[staffindex]))
                 {
                     MessageBox.Show("Login Succesfully");
-                    Form2 staff = new Form2();
+                    Staff_page staff = new Staff_page();
                     staff.Show();
 
                 }

@@ -1,6 +1,6 @@
 ﻿namespace OnlineUniversity
 {
-    partial class Form2
+    partial class Staff_page
     {
         /// <summary>
         /// Required designer variable.
@@ -40,14 +40,15 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Welcome Staff";
             // 
-            // Form2
+            // Staff_page
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label1);
-            this.Name = "Form2";
+            this.Name = "Staff_page";
             this.Text = "Staff page";
+            this.Load += new System.EventHandler(this.Staff_page_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

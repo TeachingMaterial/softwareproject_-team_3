@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace OnlineUniversity
 {
-    public partial class Form2 : Form
+    public partial class Staff_page : Form
     {
-        public Form2()
+        public Staff_page()
         {
             InitializeComponent();
+        }
+
+        private void Staff_page_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
