@@ -15,6 +15,7 @@ namespace OnlineUniversity
     public partial class Staff_page : Form
     {
         private bool isClockedIn = false;
+        private DateTime clockInTime;
         public Staff_page(string username)
         {
             InitializeComponent();
@@ -39,10 +40,10 @@ namespace OnlineUniversity
                 return;
             }
 
-            DateTime currentDateTime = DateTime.Now;
+            clockInTime= DateTime.Now;
             isClockedIn = true;
 
-            MessageBox.Show("Clock in at: " + currentDateTime );
+            MessageBox.Show("Clock in at: " + clockInTime );
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -54,9 +55,10 @@ namespace OnlineUniversity
             }
 
             DateTime currentDateTime = DateTime.Now;
+            TimeSpan workedTime = currentDateTime - clockInTime;
             isClockedIn = false;
 
-            MessageBox.Show("Clock out at: " + currentDateTime);
+            MessageBox.Show("Clock out at: " + currentDateTime );
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
