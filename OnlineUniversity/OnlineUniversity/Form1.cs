@@ -16,6 +16,8 @@ namespace OnlineUniversity
         {
             InitializeComponent();
         }
+        string[] names_students = { "Juan Gallego","Christofer Reilly" };
+        string[] names_Proffesors = { "Harry Smith"};
         string[] students = { "jg0001", "cr0002" };
         string[] passwords = { "project","password123" };
         string[] staff = {"professor","professor2" };
@@ -42,20 +44,24 @@ namespace OnlineUniversity
 
             string user = textBox_User.Text;
             string password = textBox_password.Text;
-            
+            string username = "";
+
+
             //Find the index of the user in the array
             int index = Array.IndexOf(students, user);
             int staffindex = Array.IndexOf(staff, user);
             int adminindex = Array.IndexOf(admin, user);
-
+            
             // Check if the user is a student
 
             if (index != -1 && user.Equals(students[index]))
             {
+                
                 if (password.Equals(passwords[index]))
                 {
+                    username = names_students[index];
                     MessageBox.Show("Login Succesfully");
-                    Student_page student = new Student_page();
+                    Student_page student = new Student_page(username);
                     student.Show();
                 }
                 else
@@ -70,8 +76,9 @@ namespace OnlineUniversity
             {
                 if (password.Equals(staffpasswords[staffindex]))
                 {
+                    username = names_Proffesors[staffindex];
                     MessageBox.Show("Login Succesfully");
-                    Staff_page staff = new Staff_page();
+                    Staff_page staff = new Staff_page(username);
                     staff.Show();
 
                 }

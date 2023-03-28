@@ -12,9 +12,10 @@ namespace OnlineUniversity
 {
     public partial class Student_page : Form
     {
-        public Student_page()
+        public Student_page(string username)
         {
             InitializeComponent();
+            label1.Text = "Welcome, " + username + "!";
         }
 
         private void Student_page_Load(object sender, EventArgs e)
@@ -22,7 +23,12 @@ namespace OnlineUniversity
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
 
         }
