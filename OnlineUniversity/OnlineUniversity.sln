@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineUniversity", "OnlineUniversity\OnlineUniversity.csproj", "{9811545C-8228-4BCA-A549-3479AA4F3E64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E78076F-3055-4EFD-9034-D4B7A38D8442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9811545C-8228-4BCA-A549-3479AA4F3E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9811545C-8228-4BCA-A549-3479AA4F3E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9811545C-8228-4BCA-A549-3479AA4F3E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9811545C-8228-4BCA-A549-3479AA4F3E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2190F492-289F-48E1-B615-6E7948D6DAB4}
+	EndGlobalSection
+EndGlobal
