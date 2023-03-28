@@ -14,4 +14,5 @@
 ## Inmplementation
 
 ## Gantt Chart
+<img src="https://user-images.githubusercontent.com/114992140/228252248-0254b650-57f4-4708-8fe2-e8b5b82ec1cc.png">
 
